@@ -44,7 +44,7 @@
 #endif
 
 #ifndef USBD_MANUFACTURER_STRING
-#define USBD_MANUFACTURER_STRING      "MicroPython"
+#define USBD_MANUFACTURER_STRING      "Badger Media Ltd"
 #endif
 
 #ifndef USBD_PRODUCT_HS_STRING
@@ -52,7 +52,7 @@
 #endif
 
 #ifndef USBD_PRODUCT_FS_STRING
-#define USBD_PRODUCT_FS_STRING        "Pyboard Virtual Comm Port in FS Mode"
+#define USBD_PRODUCT_FS_STRING        "BM Prototype : Virtual Comm Port in FS Mode"
 #endif
 
 #ifndef USBD_CONFIGURATION_HS_STRING
